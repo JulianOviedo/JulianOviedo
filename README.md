@@ -5,7 +5,7 @@ Front-End Developer
 --------------------
 
 I am finishing the third year of my bachelor's degree in computer science and in search of a job position where I can continue to grow, learn and evolve both professionally and personally, exploiting my skills and abilities through commitment and love for what I do and study.
-I have solid knowledge in some frameworks like React.JS, Next.JS, Redux, Express and also, know Node.JS
+I have solid knowledge in some frameworks like React.JS, Next.JS, Redux, Express and also, know Node.JS</br>
 I consider myself a very capable person to achieve everything i propose to and always want to learn new things. I think i only need the oportunity to introduce myself and show what I'm worth
 
 * 🌍  I'm based in Córdoba, Argentina
