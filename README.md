@@ -9,7 +9,7 @@ I have solid knowledge in some frameworks like React.JS, Next.JS, Redux, Express
 I consider myself a very capable person to achieve everything i propose to and always want to learn new things. I think i only need the oportunity to introduce myself and show what I'm worth
 
 * 🌍  I'm based in Córdoba, Argentina
-* ✉️  You can contact me at [julianovie234@gmail.com](mailto:barcelo.candelaria@gmail.com)
+* ✉️  You can contact me at [julianovie234@gmail.com](mailto:julianovie234@gmail.com)
 
 
 ### Skills
