@@ -10,7 +10,7 @@ I consider myself a very capable person to achieve everything i propose to and a
 
 * 🌍  I'm based in Córdoba, Argentina
 * ✉️  You can contact me at [julianovie234@gmail.com](mailto:julianovie234@gmail.com)
-* 🖥️  Also, you can visit my web portfolio <a href="https://portfolio-red-nine-26.vercel.app/" target="_blank" rel="noreferrer">here</a>
+* 🖥️  Also, you can visit my <a href="https://portfolio-red-nine-26.vercel.app/" target="_blank" rel="noreferrer">web portfolio</a>
 
 
 ### Skills
