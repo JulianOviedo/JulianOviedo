@@ -4,9 +4,13 @@ Hi there !👋 My name is Julian Oviedo
 Front-End Developer
 --------------------
 
-I am finishing the third year of my bachelor's degree in computer science and in search of a job position where I can continue to grow, learn and evolve both professionally and personally, exploiting my skills and abilities through commitment and love for what I do and study.</br>
-I have solid knowledge in Front-End development and also know Node.js</br>
-I consider myself a very capable person to achieve everything i propose to and always want to learn new things. I think i only need the oportunity to introduce myself and show what I'm worth
+Hi! I’m Julián Oviedo, a Frontend Developer with 4+ years of experience building dynamic, scalable, and user-friendly web applications. I specialize in React, Next.js, TypeScript, and Tailwind CSS, and I currently work at Solvd, Inc., where I’ve played a key role in developing and continuously improving the company’s main website.
+
+Beyond frontend development, I have hands-on experience with backend technologies like Node.js, PostgreSQL, Supabase, Strapi, and Prisma, which allows me to collaborate effectively on full-stack projects. I also have experience with React Native, enabling me to craft mobile experiences that are just as smooth and performant as their web counterparts.
+
+I love tackling complex challenges, refining UI/UX, and optimizing performance to create seamless digital experiences. Whether it's crafting pixel-perfect components, improving accessibility, or integrating APIs, I always focus on delivering high-quality solutions.
+
+If you're looking for a developer who’s proactive, detail-oriented, and always eager to learn, let’s connect! You can check out my portfolio below—I'd love to collaborate and build something great together
 
 * 🌍  I'm based in Córdoba, Argentina
 * ✉️  You can contact me at [julianovie234@gmail.com](mailto:julianovie234@gmail.com)
